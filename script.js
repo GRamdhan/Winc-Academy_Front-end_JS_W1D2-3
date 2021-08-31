@@ -1,8 +1,8 @@
 console.log("Hallo Winc Academy studenten");
-let a = 1230941;
-let b = 1823794;
-console.log(a * b);
-let c = 637263;
-let d = 54;
-console.log(c / d);
+// Dit is een grote som
+console.log(1230941 * 1823794);
+console.log(637263 / 54);
+/* Dit is een
+blokcomment*/
+
 
